@@ -27,6 +27,8 @@ oslo.middleware>=1.2.0,!=2.0.0                  # Apache-2.0
 oslo.policy>=0.5.0  # Apache-2.0
 oslo.serialization>=1.4.0               # Apache-2.0
 oslo.utils>=1.4.0                       # Apache-2.0
+# rlt, use python-openstackclient
+python-openstackclient
 oauthlib>=0.6
 pysaml2>=2.4.0
 dogpile.cache>=0.5.3
