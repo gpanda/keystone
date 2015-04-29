@@ -31,3 +31,8 @@ keystone/tests/tmp/
 keystone/locale/*/LC_MESSAGES/*.mo
 .testrepository/
 *.db
+
+.idea/
+.ropeproject/
+doc/builds
+doc/source/keystone*.rst
