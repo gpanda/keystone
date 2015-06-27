@@ -1,0 +1,9 @@
+{
+    "project": {
+        "description": "For playing keystone.",
+        "domain_id": "default",
+        "enabled": true,
+        "name": "PlayKeystone"
+    }
+}
+

@@ -1,0 +1,10 @@
+{
+    "user": {
+        "default_project_id": "94aeea0df873445b9dbef1fb23a71f33",
+        "description": "Root user for project PlayKeystone",
+        "domain_id": "default",
+        "email": "playks@gmail.com",
+        "enabled": true,
+        "name": "playks",
+        "password": "74stlei" }
+}
